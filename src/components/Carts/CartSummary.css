@@ -1,0 +1,31 @@
+.CartSummary {
+  /* background-color: rgb(156, 152, 152); */
+  height: max-content;
+  border-left: 3px solid rebeccapurple;
+  /* float: right; */
+  margin: 30px 20px 60px 20px;
+  /* margin: 10px 50px 50px 0px; */
+  border-radius: 10px;
+}
+.CartSummary-content {
+  text-align: left;
+  padding: 10px;
+  margin-left: 10px;
+}
+.CartSummary-content h4 {
+  font-size: 22px;
+  text-transform: capitalize;
+  font-family: serif;
+  color: rgb(34, 11, 240);
+  /* text-decoration: underline; */
+}
+.CartSummary-content span {
+  color: rgb(241, 96, 12);
+  font-size: 18px;
+  font-weight: 600;
+}
+.CartSummary-button {
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-bottom: 10px;
+}
